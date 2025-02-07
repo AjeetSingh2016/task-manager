@@ -3,7 +3,7 @@
 A feature-rich React Native (Expo) application for managing daily tasks with an intuitive and modern user interface. Built using React Native Paper for UI components and Redux for state management.
 
 ## 📸 Screenshot
-<img src="./assets/screenshots/Screenshot-1.png" alt="App Screenshot" width="500">
+<img src="./assets/screenshots/Screenshot-1.png" alt="App Screenshot" width="250">
 
 <!-- ![App Screenshot](./assets//screenshots/Screenshot-1.png)
 ![App Screenshot](./assets//screenshots/Screenshot-2.png)
