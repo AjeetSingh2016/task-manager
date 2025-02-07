@@ -2,8 +2,6 @@
 
 A feature-rich React Native (Expo) application for managing daily tasks with an intuitive and modern user interface. Built using React Native Paper for UI components and Redux for state management.
 
-![Task Management App Banner](https://via.placeholder.com/800x400?text=Task+Management+App)
-
 ## Features
 
 ### Core Functionality
