@@ -180,9 +180,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - React Navigation team for the routing solution
 - Callstack team for React Native Paper
 - Redux team for the state management solution
-
-## Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/yourusername/task-management-app](https://github.com/yourusername/task-management-app)
