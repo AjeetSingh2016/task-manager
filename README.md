@@ -4,6 +4,8 @@ A feature-rich React Native (Expo) application for managing daily tasks with an 
 
 ## 📸 Screenshot
 <img src="./assets/screenshots/Screenshot-1.png" alt="App Screenshot" width="250">
+<img src="./assets/screenshots/Screenshot-2.png" alt="App Screenshot" width="250">
+<img src="./assets/screenshots/Screenshot-3.png" alt="App Screenshot" width="250">
 
 <!-- ![App Screenshot](./assets//screenshots/Screenshot-1.png)
 ![App Screenshot](./assets//screenshots/Screenshot-2.png)
